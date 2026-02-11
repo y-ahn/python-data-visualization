@@ -142,14 +142,6 @@ python chapter5/code_5_4.py --dash
 
 ---
 
-## 📬 문의
-
-- **저자**: 안영준
-- **출판사**: Rentify
-- 오탈자나 코드 오류 발견 시 [Issues](../../issues) 탭에 남겨주세요.
-
----
-
 <p align="center">
   ⭐ 이 저장소가 도움이 되셨다면 Star를 눌러주세요!
 </p>
