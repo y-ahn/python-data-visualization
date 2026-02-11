@@ -38,8 +38,6 @@ pip install pandas plotly dash openpyxl numpy
 python-data-visualization/
 │
 ├── chapter2/          # Python 환경 구축 · Pandas 기초
-│   ├── code_2_1.py       - Python 버전 확인
-│   ├── code_2_2_3_4.py   - 환경설정 (폴더 생성 · 라이브러리 설치 확인)
 │   ├── code_2_5.py       - Series 생성 및 활용
 │   ├── code_2_6.py       - DataFrame 생성
 │   ├── code_2_7.py       - 열(Column) 선택
